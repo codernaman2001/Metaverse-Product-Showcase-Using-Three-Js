@@ -1,6 +1,5 @@
 # Metaverse-Product-Showcase-Using-Three-Js
 
-WEBSITE HOSTED AT:- https://project-threejs-ai-dalle2.onrender.com/
 
 Introduction
 Many large corporations already use 3D graphics to showcase their products. It is a ThreeJS 3D product website and infuse it with the power of artificial intelligence!
